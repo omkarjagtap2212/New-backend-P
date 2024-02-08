@@ -26,8 +26,6 @@ import userRouter from "./routes/user.routes.js"
 
 //declare router
 
-
-
 app.use("/api/v1/users",userRouter)
 
 
