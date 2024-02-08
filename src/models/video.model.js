@@ -38,7 +38,7 @@ const videoSchema = new mongoose.Schema({
 
     },
     isPublished: {
-        type: Boolean,  //get form Flodinaryurl
+        type: Boolean,  
         default: true
 
     },
